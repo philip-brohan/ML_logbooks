@@ -5,5 +5,6 @@ channels:
 dependencies:
   - python=3.7
   - tensorflow=2.1.*
+  - pillow=7.1.*
 # Optional, code formatter
   - black
